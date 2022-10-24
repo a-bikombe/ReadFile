@@ -10,14 +10,6 @@ Reads a file and counts, sums, and averages the numbers.
 
 ## Getting Started
 
-### Dependencies
-
-- Windows 10
-
-### Setup
-
-* Deployment: CLI
-
 ## Version History
 
 * 0.1
